@@ -1,0 +1,11 @@
+{
+  "name": "usaareader",
+  "version": "1.0.0",
+  "description": "Utility to scrape bank transactions for your USAA online bank transaction view",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
